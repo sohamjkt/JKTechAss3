@@ -1,7 +1,7 @@
 import random
-from add import add
-from multiply import multiply
-from division import divide
+from fumctions.add import add
+from fumctions.multiply import multiply
+from fumctions.division import divide
 
 def get_valid_input():
     """
